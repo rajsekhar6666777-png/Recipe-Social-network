@@ -1,5 +1,5 @@
-Intern ID: CITS7564
-Full Name:Donthu Bhavya Sri
+Intern ID:CT-5115
+Full Name: Gadamanipalli Rajasekhar
 No. of Weeks: 8 Weeks
 Project Name: Recipe Social Network
 
